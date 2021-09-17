@@ -1,0 +1,16 @@
+body{
+    background-color: gray;
+    text-align: center;
+}
+.countries{
+    border: 1px solid;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
+}
+.country{
+    border:  2px dashed lightsalmon;
+}
+.country img{
+    width: 100%;
+}
