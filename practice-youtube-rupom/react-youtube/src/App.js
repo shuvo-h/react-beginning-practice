@@ -8,8 +8,13 @@ import Hello from './components/Hello';
 // import ButtonAdd from './components/ButtonAdd';
 // import ButtonClass from "./components/ButtonClass"
 // import ButtonParameter from './components/ButtonParameter';
-import Welcome from './components/WelcomeState';
-import NestedArrayObject from './components/NestedArrayObject';
+// import Welcome from './components/WelcomeState';
+// import NestedArrayObject from './components/NestedArrayObject';
+// import StateClass from './components/StateClass';
+// import ChangeName from './components/ChangeState';
+// import LoginCondition from './components/Condition';
+import TernaryCondition from './components/TernaryCondition';
+import RefreshPage from './components/ForceUpdate';
 // ----------------------------
 
 function App() {
@@ -26,8 +31,14 @@ function App() {
       {/* <ButtonClass></ButtonClass> */}
     {/* <ButtonParameter itemName="Mobile"></ButtonParameter> */}
     {/* <ButtonParameter itemName="TV"></ButtonParameter> */}
-    <Welcome></Welcome>
-    <NestedArrayObject></NestedArrayObject>
+    {/* <Welcome></Welcome> */}
+    {/* <StateClass></StateClass> */}
+    {/* <NestedArrayObject></NestedArrayObject> */}
+    
+    {/* <ChangeName></ChangeName> */}
+    {/* <LoginCondition></LoginCondition> */}
+    {/* <TernaryCondition></TernaryCondition> */}
+    <RefreshPage></RefreshPage>
     </div>
     
   );
