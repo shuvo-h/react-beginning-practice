@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-color: gray;
+}
+.container{
+  background-color: indianred;
+  padding: 4px;
+  
+}
+.card{
+  border: 2px solid green;
+  padding: '15px';
+  margin: 15px;
+  background-color: lightskyblue;
+  border-radius: 8px;
+}
