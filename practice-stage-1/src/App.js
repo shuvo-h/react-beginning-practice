@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import {useEffect, useState, usestate} from 'react';
 import DynamicCount from './components/DynamicCount';
+import LoadAPI from './components/LoadAPI';
 
 function App() {
   const titleStyle = {
@@ -30,11 +31,14 @@ function App() {
   
   return (
     <div className="App">
+      <LoadAPI></LoadAPI>
+{/*       
       {
         productList.map(product => <DynamicCount name={product.name} price={product.price} color={product.color}></DynamicCount>)
       }
       <DynamicCount name="Xami"></DynamicCount>
       <DynamicCount></DynamicCount>
+ */}
       {/* <ShowUser></ShowUser> */}
       {/* <ProductSelect></ProductSelect> */}
     {/* <CommentCount></CommentCount> */}

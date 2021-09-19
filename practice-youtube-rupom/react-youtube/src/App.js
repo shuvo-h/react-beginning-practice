@@ -13,8 +13,11 @@ import Hello from './components/Hello';
 // import StateClass from './components/StateClass';
 // import ChangeName from './components/ChangeState';
 // import LoginCondition from './components/Condition';
-import TernaryCondition from './components/TernaryCondition';
-import RefreshPage from './components/ForceUpdate';
+// import TernaryCondition from './components/TernaryCondition';
+// import RefreshPage from './components/ForceUpdate';
+// import RenderCustomDom from './components/ReactDOM';
+// import ReactDomRender from './ReactDOM2';
+import ReactForm from './components/InputForm';
 // ----------------------------
 
 function App() {
@@ -38,7 +41,10 @@ function App() {
     {/* <ChangeName></ChangeName> */}
     {/* <LoginCondition></LoginCondition> */}
     {/* <TernaryCondition></TernaryCondition> */}
-    <RefreshPage></RefreshPage>
+    {/* <RefreshPage></RefreshPage> */}
+    {/* <RenderCustomDom></RenderCustomDom> */}
+    {/* <ReactDomRender></ReactDomRender> */}
+    <ReactForm></ReactForm>
     </div>
     
   );
