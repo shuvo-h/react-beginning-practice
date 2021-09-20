@@ -18,6 +18,8 @@ import Hello from './components/Hello';
 // import RenderCustomDom from './components/ReactDOM';
 // import ReactDomRender from './ReactDOM2';
 import ReactForm from './components/InputForm';
+import FormWithState from './components/FormWithState';
+import Countries from './components/Country/Countries';
 // ----------------------------
 
 function App() {
@@ -44,7 +46,9 @@ function App() {
     {/* <RefreshPage></RefreshPage> */}
     {/* <RenderCustomDom></RenderCustomDom> */}
     {/* <ReactDomRender></ReactDomRender> */}
-    <ReactForm></ReactForm>
+    {/* <ReactForm></ReactForm> */}
+    {/* <FormWithState></FormWithState> */}
+    <Countries></Countries>
     </div>
     
   );

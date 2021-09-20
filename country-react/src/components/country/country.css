@@ -1,0 +1,11 @@
+.parentContainer{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+}
+.country{
+    border: 2px solid khaki;
+    padding: 5px;
+    margin: 8px;
+    
+}
