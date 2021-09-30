@@ -17,9 +17,10 @@ import Hello from './components/Hello';
 // import RefreshPage from './components/ForceUpdate';
 // import RenderCustomDom from './components/ReactDOM';
 // import ReactDomRender from './ReactDOM2';
-import ReactForm from './components/InputForm';
-import FormWithState from './components/FormWithState';
-import Countries from './components/Country/Countries';
+// import ReactForm from './components/InputForm';
+// import FormWithState from './components/FormWithState';
+// import Countries from './components/Country/Countries';
+import NameChange from './EventHandler/NameChange';
 // ----------------------------
 
 function App() {
@@ -48,7 +49,8 @@ function App() {
     {/* <ReactDomRender></ReactDomRender> */}
     {/* <ReactForm></ReactForm> */}
     {/* <FormWithState></FormWithState> */}
-    <Countries></Countries>
+    {/* <Countries></Countries> */}
+    <NameChange></NameChange>
     </div>
     
   );

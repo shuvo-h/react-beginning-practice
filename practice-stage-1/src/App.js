@@ -3,6 +3,7 @@ import './App.css';
 import {useEffect, useState, usestate} from 'react';
 import DynamicCount from './components/DynamicCount';
 import LoadAPI from './components/LoadAPI';
+import ElectroComponent from './components/ElectroShop/Electrocomponent';
 
 function App() {
   const titleStyle = {
@@ -31,7 +32,8 @@ function App() {
   
   return (
     <div className="App">
-      <LoadAPI></LoadAPI>
+      <ElectroComponent></ElectroComponent>
+      {/* <LoadAPI></LoadAPI> */}
 {/*       
       {
         productList.map(product => <DynamicCount name={product.name} price={product.price} color={product.color}></DynamicCount>)
