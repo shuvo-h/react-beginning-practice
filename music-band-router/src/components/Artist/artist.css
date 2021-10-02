@@ -1,0 +1,8 @@
+.artist{
+    box-shadow: 2px 2px 5px;
+    border-radius: 0.5em;
+    padding: 0.5em;
+}
+.artist img{
+    width: 100%;
+}

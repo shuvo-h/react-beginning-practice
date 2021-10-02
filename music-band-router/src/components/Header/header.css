@@ -1,0 +1,17 @@
+nav{
+    font-size: 1.3em;
+    text-decoration: none;
+    background-color: lightblue;
+    display: flex;
+    justify-content: right;
+}
+.nav-link{
+    text-decoration: none;
+    margin: 0px 1px;
+    display: inline-block;
+    background-color: rgb(128, 240, 184);
+    padding: 8px 14px;
+}
+.nav-link:hover{
+    background-color: rgb(68, 223, 145);
+}
