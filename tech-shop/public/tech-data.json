@@ -1,0 +1,30 @@
+ [
+  {
+    "itemId": "2A01",
+    "itemName": "Mobile",
+    "itemPrice": 300,
+    "itemImg": "https://i.gadgets360cdn.com/products/large/oneplus-nord-ce-5g-369x800-1623336330.jpg",
+    "itemStr": "The Nord CE 5G from OnePlus caters to the lower end of the smartphone market. OnePlus claims that the CE in the name stands for Core Edition since the device is capable of delivering a core smartphone experience. The OnePlus Nord covers all the basics in terms of specifications and also has a 3.5mm headphone jack."
+  },
+  {
+    "itemId": "2A02",
+    "itemName": "Laptop",
+    "itemPrice": 1300,
+    "itemImg": "http://cdn.mos.cms.futurecdn.net/6t8Zh249QiFmVnkQdCCtHK.jpg",
+    "itemStr": "Laptops. There are just so many of them. But what's the best laptop for you? Is it a business notebook, a powerful gaming laptop, or a Chromebook? We know the sheer number of choices can be overwhelming, which is why we made this list."
+  },
+  {
+    "itemId": "2A03",
+    "itemName": "Car",
+    "itemPrice": 3300,
+    "itemImg": "https://moneyinc.com/wp-content/uploads/2017/01/2018-Bugatti-Chiron-750x422.jpg",
+    "itemStr": "The spirit of human endurance is at the heart of our brand in communities worldwide. There’s never been a more appropriate time for that spirit to come to the fore. The world is in an unprecedented place right now, but together we will come through this. We truly believe the road ahead leads to an exciting future for us all."
+  },
+  {
+    "itemId": "2A04",
+    "itemName": "AirPlane",
+    "itemPrice": 300,
+    "itemImg": "https://www.rd.com/wp-content/uploads/2020/01/GettyImages-1131335393-e1580493890249-scaled.jpg",
+    "itemStr": "Every editorial product is independently selected, though we may be compensated or receive an affiliate commission if you buy something through our links. Ratings and prices are accurate and items are in stock as of time of publication."
+  }
+]
